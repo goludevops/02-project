@@ -3,6 +3,9 @@ public class date{
   /**
 
   */
+   
+   int a=10;
+
    public void convert to date(){
 
    }
