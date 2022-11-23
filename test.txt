@@ -1,6 +1,9 @@
 public class demo{
 
     public void m1()}
- 
+    
+    public static void do process(){
+
+   //they donot have logic
   }
 }
