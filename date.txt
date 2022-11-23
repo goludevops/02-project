@@ -5,7 +5,9 @@ public class date{
   */
    
    int a=10;
-
+   
+   private school;
+    
    public void convert to date(){
 
    }
