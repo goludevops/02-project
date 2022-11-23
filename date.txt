@@ -5,7 +5,13 @@ public class date{
   */
    
    int a=10;
+
    let's creck it;
+
+
+   
+   private school;
+    
 
    public void convert to date(){
 
