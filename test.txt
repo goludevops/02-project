@@ -5,5 +5,7 @@ public class demo{
     public static void do process(){
 
    //they donot have logic
+
+   // complete it
   }
 }
